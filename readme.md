@@ -36,21 +36,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white" alt="WSO2"/>
   <img src="https://img.shields.io/badge/Product_Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Product Analysis"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Development"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincenzoBochicchio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoBochicchio&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincenzoBochicchio&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -66,25 +56,3 @@ const vincenzo = {
 };
 ```
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  
-### 💭 *"Turning ideas into code, one commit at a time"*
-
-![Visitor Count](https://profile-counter.glitch.me/VincenzoBochicchio/count.svg)
-
-</div>
