@@ -22,7 +22,6 @@
 - 🤝 Strong advocate for **teamwork** and **Agile/SCRUM methodologies**, experienced in cross-functional collaboration
 - 🌱 Currently leveling up my web development skills with modern frontend technologies
 - 💡 Driven by **curiosity** and a passion for finding innovative solutions to complex challenges
-- 📍 Based in **Bari, Italy** 🇮🇹
 
 ---
 
