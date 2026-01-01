@@ -1,19 +1,27 @@
 <div align="center">
   
 # 👋🏼 Hi, I'm Vincenzo
-<h3> 💼  Product Analyst  |  🚀  Web Developer  |  🎯  Problem Solver</h3>
+
+<h3>💼 Product Analyst  |  🚀 Web Developer  |  🎯 Problem Solver</h3>
+
 <br/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code;Building+with+React+%26+TypeScript;Always+learning%2C+always+growing" alt="Typing SVG" />
+
 <br/>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Product Analyst** with 3 years of experience in the WSO2 ecosystem
-- 🌱 Currently leveling up my web development skills
-- 💡 Passionate about building modern, user-friendly applications
+- 💼 **Product Analyst** with nearly 3 years of experience specializing in **WSO2 technologies** and **AWS cloud environments**
+- 🔧 Expertise in **system integration**, **software development**, and developing custom sequences and tailored components
+- 🎓 Background in computer science enriched by an intensive **full-stack development bootcamp**
+- 🤝 Strong advocate for **teamwork** and **Agile/SCRUM methodologies**, experienced in cross-functional collaboration
+- 🌱 Currently leveling up my web development skills with modern frontend technologies
+- 💡 Driven by **curiosity** and a passion for finding innovative solutions to complex challenges
 - 📍 Based in **Bari, Italy** 🇮🇹
 
 ---
@@ -51,9 +59,19 @@
 const vincenzo = {
     location: "Bari, Italy 🇮🇹",
     role: "Product Analyst",
+    experience: ["WSO2", "AWS", "System Integration", "API Development"],
     currentlyLearning: ["React", "TypeScript", "Tailwind CSS"],
     interests: ["Web Development", "UI/UX", "Modern Applications"],
+    methodologies: ["Agile", "SCRUM", "Mob Programming"],
+    values: ["Teamwork", "Continuous Learning", "Innovation"],
     goal: "Building beautiful and functional web experiences"
 };
 ```
 
+<div align="center">
+  
+### 💭 *"Turning ideas into code, one commit at a time"*
+
+![Visitor Count](https://profile-counter.glitch.me/VincenzoBochicchio/count.svg)
+
+</div>
