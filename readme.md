@@ -1,5 +1,6 @@
 <div align="center">
-👋 Hi, I'm Vincenzo Bochicchio
+  
+# 👋 Hi, I'm Vincenzo
 <h3>💼 Product Analyst  |  🚀 Web Developer  |  🎯 Problem Solver</h3>
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code;Building+with+React+%26+TypeScript;Always+learning%2C+always+growing" alt="Typing SVG" />
