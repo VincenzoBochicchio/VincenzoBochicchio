@@ -72,6 +72,4 @@ const vincenzo = {
   
 ### 💭 *"Turning ideas into code, one commit at a time"*
 
-![Visitor Count](https://profile-counter.glitch.me/VincenzoBochicchio/count.svg)
-
 </div>
