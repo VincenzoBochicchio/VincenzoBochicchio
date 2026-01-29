@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Product Analyst** with nearly 3 years of experience specializing in **WSO2 technologies** and **AWS cloud environments**
+- 💼 **Product Analyst** with 3 years of experience specializing in **WSO2 technologies** and **AWS cloud environments**
 - 🔧 Expertise in **system integration**, **software development**, and developing custom sequences and tailored components
 - 🎓 Background in computer science enriched by an intensive **full-stack development bootcamp**
 - 🤝 Strong advocate for **teamwork** and **Agile/SCRUM methodologies**, experienced in cross-functional collaboration
