@@ -2,7 +2,7 @@
   
 # 👋🏼 Hi, I'm Vincenzo
 
-<h3>💼 Product Analyst  |  🚀 Web Developer  |  🎯 Problem Solver</h3>
+<h3>Product Analyst  |   Web Developer  |   Problem Solver</h3>
 
 <br/>
 
